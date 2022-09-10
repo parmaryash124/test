@@ -1,0 +1,13 @@
+* git three stage architecture *
+
+working directory
+staging  area : go on my next commit 
+git directory repository...
+
+git status  fatal erorr : when there is no any repository
+
+git init  : making as repository git 
+
+by default master branch is created..
+
+git add -a : push all files into staging area. 
