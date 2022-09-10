@@ -23,3 +23,11 @@ rm -rf .git  : now git repository not avilable..
 git clone "url" name which you want keep.
 
 git diff command compare working directory with staging area.
+
+git diff --stage  one step back and go with working directory and checkng modfied files.
+
+git commit --a -m  "direct commit" to go without staging .... staging skip...area..
+
+moving and renaming files in git .... 
+
+how to unstage file...
