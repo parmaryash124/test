@@ -11,3 +11,13 @@ git init  : making as repository git
 by default master branch is created..
 
 git add -a : push all files into staging area. 
+
+when color is green after git add -a means you push all that files in staging area...
+
+git commit -m " initialize my message"
+
+git log  this command is used for getting our all commits .
+
+rm -rf .git  : now git repository not avilable..
+
+git clone "url" name which you want keep.
